@@ -2,6 +2,7 @@
 const nextConfig = {
   env: {
     SERVER_URL: process.env.SERVER_URL,
+    CLIENT_DOMAIN: process.env.CLIENT_DOMAIN,
   },
 };
 
